@@ -11,7 +11,7 @@ const Navbar = () => {
         <div className='mx-auto flex max-w-[1280px] px-3 items-center justify-between'>
           <Link to={'https://www.linkedin.com/in/krishna-chelluboina/'} target='_blank'><img src={Logo} className='h-16' alt='Logo' /></Link>
           <div className='flex gap-2'>
-            <Link target='_blank' to={'https://www.google.com'}>
+            <Link target='_blank' to={'https://krishnavamsi-portfolio.vercel.app/'}>
                 <div className='border p-3 px-5 rounded-xl shadow-xl bg-[#0442ED] text-white font-medium hover:bg-black text-lg'>
                     My Portfolio
                 </div>
